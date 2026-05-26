@@ -1,0 +1,7 @@
+C:\Users\juanj\Documents\Visual Studio 18\paroimpar\paroimpar\bin\Debug\paroimpar.exe.config
+C:\Users\juanj\Documents\Visual Studio 18\paroimpar\paroimpar\bin\Debug\paroimpar.exe
+C:\Users\juanj\Documents\Visual Studio 18\paroimpar\paroimpar\bin\Debug\paroimpar.pdb
+C:\Users\juanj\Documents\Visual Studio 18\paroimpar\paroimpar\obj\Debug\paroimpar.csproj.AssemblyReference.cache
+C:\Users\juanj\Documents\Visual Studio 18\paroimpar\paroimpar\obj\Debug\paroimpar.csproj.CoreCompileInputs.cache
+C:\Users\juanj\Documents\Visual Studio 18\paroimpar\paroimpar\obj\Debug\paroimpar.exe
+C:\Users\juanj\Documents\Visual Studio 18\paroimpar\paroimpar\obj\Debug\paroimpar.pdb
